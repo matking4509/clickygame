@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Planet Express Ship",
+    "image": "/img/futurama_PNG8.png"
+  },
+  {
+    "id": 2,
+    "name": "Amy Wong",
+    "image": "/img/futurama_PNG35.png"
+  },
+  {
+    "id": 3,
+    "name": "Turonga Leela",
+    "image": "/img/futurama_PNG57.png"
+  },
+  {
+    "id": 4,
+    "name": "Zapp Branigan",
+    "image": "/img/futurama_PNG69.png"
+  },
+  {
+    "id": 5,
+    "name": "Kiff Croker",
+    "image": "/img/futurama_PNG58.png"
+  },
+  {
+    "id": 6,
+    "name": "Logo",
+    "image": "/img/futurama_PNG66.png"
+  },
+  {
+    "id": 7,
+    "name": "Scruffy",
+    "image": "/img/futurama_PNG67.png"
+  },
+  {
+    "id": 8,
+    "name": "Phillip J. Fry",
+    "image": "/img/futurama_PNG83.png"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Zoidberg",
+    "image": "/img/futurama_PNG89.png"
+  },
+  {
+    "id": 10,
+    "name": "Roberto",
+    "image": "/img/futurama_PNG95.png"
+  },
+  {
+    "id": 11,
+    "name": "Seymour",
+    "image": "/img/futurama_PNG103.png"
+  },
+  {
+    "id": 12,
+    "name": "Lord Nibbler",
+    "image": "/img/futurama_PNG104.png"
+  }
+]
